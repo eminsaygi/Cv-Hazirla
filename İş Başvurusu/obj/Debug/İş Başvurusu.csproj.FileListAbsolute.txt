@@ -1,0 +1,32 @@
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 12\İş Başvurusu\İş Başvurusu\bin\Debug\İş Başvurusu.exe.config
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 12\İş Başvurusu\İş Başvurusu\bin\Debug\İş Başvurusu.exe
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 12\İş Başvurusu\İş Başvurusu\bin\Debug\İş Başvurusu.pdb
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 12\İş Başvurusu\İş Başvurusu\obj\Debug\İş Başvurusu.csprojResolveAssemblyReference.cache
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 12\İş Başvurusu\İş Başvurusu\obj\Debug\İş_Başvurusu.Properties.Resources.resources
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 12\İş Başvurusu\İş Başvurusu\obj\Debug\İş Başvurusu.csproj.GenerateResource.Cache
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 12\İş Başvurusu\İş Başvurusu\obj\Debug\İş Başvurusu.exe
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 12\İş Başvurusu\İş Başvurusu\obj\Debug\İş Başvurusu.pdb
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 12\İş Başvurusu\İş Başvurusu\obj\Debug\İş_Başvurusu.Başvuru1.resources
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 12\İş Başvurusu\İş Başvurusu\obj\Debug\İş_Başvurusu.Giriş.resources
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 12\İş Başvurusu\İş Başvurusu\bin\Debug\İş Başvurusu.exe.config
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 12\İş Başvurusu\İş Başvurusu\bin\Debug\İş Başvurusu.exe
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 12\İş Başvurusu\İş Başvurusu\bin\Debug\İş Başvurusu.pdb
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 12\İş Başvurusu\İş Başvurusu\obj\Debug\İş Başvurusu.csprojAssemblyReference.cache
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 12\İş Başvurusu\İş Başvurusu\obj\Debug\İş_Başvurusu.Başvuru1.resources
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 12\İş Başvurusu\İş Başvurusu\obj\Debug\İş_Başvurusu.Giriş.resources
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 12\İş Başvurusu\İş Başvurusu\obj\Debug\İş_Başvurusu.Properties.Resources.resources
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 12\İş Başvurusu\İş Başvurusu\obj\Debug\İş Başvurusu.csproj.GenerateResource.cache
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 12\İş Başvurusu\İş Başvurusu\obj\Debug\İş Başvurusu.csproj.CoreCompileInputs.cache
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 12\İş Başvurusu\İş Başvurusu\obj\Debug\İş Başvurusu.exe
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 12\İş Başvurusu\İş Başvurusu\obj\Debug\İş Başvurusu.pdb
+D:\Yedekler\Emin\Çalışmalarım\Emin Saygı\Ders 12\İş Başvurusu\İş Başvurusu\bin\Debug\İş Başvurusu.exe.config
+D:\Yedekler\Emin\Çalışmalarım\Emin Saygı\Ders 12\İş Başvurusu\İş Başvurusu\bin\Debug\İş Başvurusu.exe
+D:\Yedekler\Emin\Çalışmalarım\Emin Saygı\Ders 12\İş Başvurusu\İş Başvurusu\bin\Debug\İş Başvurusu.pdb
+D:\Yedekler\Emin\Çalışmalarım\Emin Saygı\Ders 12\İş Başvurusu\İş Başvurusu\obj\Debug\İş Başvurusu.csprojAssemblyReference.cache
+D:\Yedekler\Emin\Çalışmalarım\Emin Saygı\Ders 12\İş Başvurusu\İş Başvurusu\obj\Debug\İş_Başvurusu.Başvuru1.resources
+D:\Yedekler\Emin\Çalışmalarım\Emin Saygı\Ders 12\İş Başvurusu\İş Başvurusu\obj\Debug\İş_Başvurusu.Giriş.resources
+D:\Yedekler\Emin\Çalışmalarım\Emin Saygı\Ders 12\İş Başvurusu\İş Başvurusu\obj\Debug\İş_Başvurusu.Properties.Resources.resources
+D:\Yedekler\Emin\Çalışmalarım\Emin Saygı\Ders 12\İş Başvurusu\İş Başvurusu\obj\Debug\İş Başvurusu.csproj.GenerateResource.cache
+D:\Yedekler\Emin\Çalışmalarım\Emin Saygı\Ders 12\İş Başvurusu\İş Başvurusu\obj\Debug\İş Başvurusu.csproj.CoreCompileInputs.cache
+D:\Yedekler\Emin\Çalışmalarım\Emin Saygı\Ders 12\İş Başvurusu\İş Başvurusu\obj\Debug\İş Başvurusu.exe
+D:\Yedekler\Emin\Çalışmalarım\Emin Saygı\Ders 12\İş Başvurusu\İş Başvurusu\obj\Debug\İş Başvurusu.pdb
